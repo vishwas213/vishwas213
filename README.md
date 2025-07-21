@@ -17,13 +17,16 @@ I'm Vishwas A Bot Developer for discord also A Web developer
 - Open source :octocat:
 - And Private source 🔏
 
-## 🚀 My Projects
+## Languages and Tools 🛠
+
+## My Projects 🚀
 - [AEVIX Music Bot](https://github.com/your-bot-link)
 - [Portfolio Website](https://guns.lol/vishwass)
 
-## 📫 How to reach me
+## How to reach me 📫 
 - Discord: [Vishwas_213](https://discord.com/users/627074461350494250)
 - Email: vishwassaini213@gmail.com
+- Insta: [vishwas_213](https://www.instagram.com/vishwas_213)
 
 <!--
 
