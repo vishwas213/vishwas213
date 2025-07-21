@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there 👋
-<a target="_blank" href="codes/cheatsheet-a5.pdf"> <img src="image/defult.webp" alt="" width="33%"></a>
+<img src="image/defult.webp" alt="">
 </div>
 <div align="center">
 
