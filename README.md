@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hello, I'm Vishwas
+# Hi there 👋
 
 </div>
-# Hi there 👋
+
 
 
 I'm a passionate developer working on Discord bots, web projects, and more.
