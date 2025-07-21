@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 
 I'm a passionate developer working on Discord bots, web projects, and more.
