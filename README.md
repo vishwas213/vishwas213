@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there 👋
-![image](https://github.com/vishwas213/user-attachments/blob/main/hello-word.jpg)
+<img src="https://github.com/vishwas213/user-attachments/blob/main/hello-word.jpg?raw=true" width="100%">
 </div>
 <div align="center">
 
