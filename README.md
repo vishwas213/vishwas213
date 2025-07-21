@@ -23,7 +23,7 @@ I'm Vishwas A Bot Developer for discord also A Web developer
 
 ## 📫 How to reach me
 - Discord: [Vishwas_213](https://discord.com/users/627074461350494250)
-- Email: yourname@example.com
+- Email: vishwassaini213@gmail.com
 
 <!--
 
