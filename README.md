@@ -10,7 +10,12 @@ About me
 </h1>
 
 </div>
-I'm a passionate developer working on Discord bots, web projects, and more.
+I'm Vishwas A Bot Developer for discord also A Web developer 
+
+## Things I am passionate about
+- Bot :robot:
+- Open source :octocat:
+- And Private source 🔏
 
 ## 🚀 My Projects
 - [AEVIX Music Bot](https://github.com/your-bot-link)
@@ -21,22 +26,6 @@ I'm a passionate developer working on Discord bots, web projects, and more.
 - Email: yourname@example.com
 
 <!--
-
-<h1 align="center">Hi there 👋</h1>
-
-![image](https://github.com/user-attachments/assets/39cbe2a0-d53d-4033-b783-a7a5f416cb2a)
-
-
-
-<h1 align="center">About me</h1>
-<p align="left">I'm Ray A Bot Developer for discord also A Web developer and Minecraft Developer Too 
-
-
-## Things I am passionate about
-
-- Bot :robot:
-- Open source :octocat:
-- And Private source 🔏
 
 ## Get in touch :coffee:
 
