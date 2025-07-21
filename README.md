@@ -5,9 +5,9 @@
 </div>
 <div align="center">
 
- <div align="center">
-# about me
-</div>
+<h1 align="center">
+About me
+</h1>
 
 </div>
 I'm a passionate developer working on Discord bots, web projects, and more.
