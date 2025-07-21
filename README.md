@@ -3,9 +3,11 @@
 # Hi there 👋
 
 </div>
+<div align="center">
 
+# about me
 
-
+</div>
 I'm a passionate developer working on Discord bots, web projects, and more.
 
 ## 🚀 My Projects
@@ -13,5 +15,5 @@ I'm a passionate developer working on Discord bots, web projects, and more.
 - [Portfolio Website](https://yourwebsite.com)
 
 ## 📫 How to reach me
-- Discord: @secretkiller0538
+- Discord: 
 - Email: yourname@example.com
