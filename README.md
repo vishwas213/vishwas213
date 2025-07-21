@@ -19,10 +19,10 @@ I'm Vishwas A Bot Developer for discord also A Web developer
 
 ## 🚀 My Projects
 - [AEVIX Music Bot](https://github.com/your-bot-link)
-- [Portfolio Website](https://yourwebsite.com)
+- [Portfolio Website](https://guns.lol/vishwass)
 
 ## 📫 How to reach me
-- Discord: 
+- Discord: [Vishwas_213](https://discord.com/users/627074461350494250)
 - Email: yourname@example.com
 
 <!--
