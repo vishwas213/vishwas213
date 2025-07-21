@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there 👋
-![image](https://github.com/user-attachments/hello-worls.jpg)
+![image](https://github.com/user-attachments/hello-word.jpg)
 </div>
 <div align="center">
 
